@@ -1,3 +1,3 @@
-# html-task
-# html files to create form/list/table 
+# HTML-task
+# HTML files to create form/list/table 
 
